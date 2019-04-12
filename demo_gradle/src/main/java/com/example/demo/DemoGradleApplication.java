@@ -16,7 +16,7 @@ public class DemoGradleApplication implements CommandLineRunner {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoGradleApplication.class, args);
 		
-		System.out.println("######################MAIN#########################");
+		System.out.println("######################MAIN##########################");
 	}
 	
 	@Override
